@@ -1,7 +1,4 @@
-img{
-  width:50;
-  height:80;
-}
+
 .cards{
     display: flex;
     flex-direction: row;
@@ -15,4 +12,9 @@ img{
   border: solid;
   border-color: red;
   padding: 10px;
+  margin: 5 5px;
   }
+.card:hover{
+  border-color: blue;
+  border-radius: 10%;
+}
