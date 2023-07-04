@@ -11,8 +11,9 @@
   width: 190px ;
   display: flex;
   flex-direction: column;
-  border: solid;
+  border: outset;
   border-color: red;
+  border-radius: 5%;
   padding: 10px;
   margin: 5 5px;
   }
