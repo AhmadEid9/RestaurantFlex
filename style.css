@@ -9,12 +9,14 @@ a{
     cursor: not-allowed;
     pointer-events: none;
 }
-#location_div{
+.location_div{
+    margin-left: 250px;
+    margin-right: 250px;
     display: flex;
     flex-direction: column;
     padding-top: 10%;
     justify-content: center;
-    align-content: center;
+    align-items: center;
 }
 #welcome-header{
     text-align: center;
